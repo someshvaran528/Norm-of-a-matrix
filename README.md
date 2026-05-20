@@ -41,17 +41,16 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 <br>
 
 ### 2-Norm of a Matrix
-```
+
 <img width="603" height="280" alt="Screenshot 2026-05-20 091752" src="https://github.com/user-attachments/assets/e83f9295-e990-4380-9711-5e31f0625cfd" />
-```
+
 <br>
 <br>
 <br>
 
-### Infinity Norm of a Matrix
-```````
+### Infinity Norm of a Matrix`
 <img width="654" height="258" alt="Screenshot 2026-05-20 091802" src="https://github.com/user-attachments/assets/20125dc7-fceb-437b-9259-f20cb6344bc7" />
-````````
+
 <br>
 <br>
 <br>
