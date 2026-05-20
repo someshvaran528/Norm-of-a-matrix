@@ -13,43 +13,44 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 # Register No:
 # Developed By:
 # 1-Norm of a Matrix
-<img width="1013" height="474" alt="Screenshot 2025-11-04 045522" src="https://github.com/user-attachments/assets/aa9347ea-d84c-4e19-a572-43455dd63013" />
+
+<img width="823" height="514" alt="Screenshot 2026-05-20 091713" src="https://github.com/user-attachments/assets/81a1ac0a-a9cc-4c89-a3a1-5778e2162b4a" />
 
 
 
 
 # 2-Norm of a Matrix
-<img width="964" height="317" alt="Screenshot 2025-11-04 045621" src="https://github.com/user-attachments/assets/4d6450b8-8a6b-4ae1-ac2e-c49e81bb2a02" />
-
-
+<img width="519" height="325" alt="Screenshot 2026-05-20 091721" src="https://github.com/user-attachments/assets/ad7f11ed-a2d6-4741-9273-dfe321441c4a" />
 
 
 # Infinity Norm of a Matrix
-<img width="1053" height="457" alt="Screenshot 2025-11-04 045706" src="https://github.com/user-attachments/assets/e48757fa-221f-4418-bcd9-7dfe5f01fadd" />
 
 
-
+<img width="543" height="331" alt="Screenshot 2026-05-20 091728" src="https://github.com/user-attachments/assets/2dba51a1-8e58-46b6-9398-68ce7eb46cca" />
 
 
 
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<img width="1017" height="281" alt="Screenshot 2025-11-04 045737" src="https://github.com/user-attachments/assets/c8bfec21-ae7f-4d97-bc4d-6e8ee4ed39c5" />
+
+<img width="673" height="276" alt="Screenshot 2026-05-20 091743" src="https://github.com/user-attachments/assets/24a5453e-366d-4588-b794-afc05c90cf37" />
 
 <br>
 <br>
 <br>
 
 ### 2-Norm of a Matrix
-<img width="935" height="296" alt="Screenshot 2025-11-04 045844" src="https://github.com/user-attachments/assets/1260c142-8eed-40a7-a1fc-1c4d100edbcd" />
+
+<img width="603" height="280" alt="Screenshot 2026-05-20 091752" src="https://github.com/user-attachments/assets/e83f9295-e990-4380-9711-5e31f0625cfd" />
 
 <br>
 <br>
 <br>
 
 ### Infinity Norm of a Matrix
-<img width="935" height="296" alt="Screenshot 2025-11-04 045844" src="https://github.com/user-attachments/assets/6dae0b56-c645-4a8f-a7c0-83e9c1b10862" />
+
+<img width="654" height="258" alt="Screenshot 2026-05-20 091802" src="https://github.com/user-attachments/assets/20125dc7-fceb-437b-9259-f20cb6344bc7" />
 
 <br>
 <br>
